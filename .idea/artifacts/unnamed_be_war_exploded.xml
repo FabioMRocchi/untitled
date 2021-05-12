@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="unnamed-be:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/unnamed_be_war_exploded</output-path>
+    <root id="root" />
+  </artifact>
+</component>
